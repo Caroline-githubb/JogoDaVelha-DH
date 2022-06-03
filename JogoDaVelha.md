@@ -9,4 +9,4 @@
 | 2  | O      | O     | X     |
 | 3  | O      | X     | O     |
 
-#Resultado: Deu velha, nenhuma jogadora venceu.
+# Resultado: Deu velha, nenhuma jogadora venceu.
